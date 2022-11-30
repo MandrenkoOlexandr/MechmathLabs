@@ -1,4 +1,4 @@
-**  @file curves.h
+/*  @file curves.h
 *    @brief Classes prototypes for the half year project.
 *    
 *    This contains patterns of classes which represent conic sections.
