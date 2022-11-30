@@ -697,3 +697,5 @@ Point * Hyperbole::intersection(Hyperbole parabola){
     return res;
 
 }
+
+
